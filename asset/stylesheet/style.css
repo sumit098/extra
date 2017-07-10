@@ -30,8 +30,8 @@ DRYWEST
 	
 }
 .heading h1{
-	font:  40px/44px "Helvetica-neue",Helvetica,Arial,sans-serif;
-	color: lightgray;
+	font: bold 40px/44px "Helvetica-neue",Helvetica,Arial,sans-serif;
+	color: #1b1738;
 }
 .heading a{
 	background: maroon;
@@ -41,6 +41,7 @@ DRYWEST
 	text-transform: uppercase;
 	padding: 20px 25px;
 	margin-top: -49px;
+	text-decoration: none;
 }
 a:hover{
 	background: #fff;
@@ -107,13 +108,15 @@ image
 .subject h1{
 	font-size: 75px;
 	font-weight: 400;
-	color:#fff;
+	color:#0ad0a4;
 	margin-bottom: 20px;
 }
 .subject p{
 	font: italic 18px/14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	letter-spacing: .5px;
 	margin-bottom: 70px;
+	color: #874bf9;
+    font-size: x-large;
 }
 .subject a{
 	background: maroon;
@@ -122,6 +125,7 @@ image
 	text-transform: uppercase;
 	padding: 20px 25px;
 	margin-bottom: 50px;
+	text-decoration: none;
 }
 .subject a:hover{
 	background: #fff;
@@ -129,6 +133,7 @@ image
 }
 .phrase{
 	width: 100%;
+	background: blanchedalmond;
 	
 }
 .phrase aside.sidebar{
@@ -167,6 +172,7 @@ image
 	padding: 15px 25px;
 	background: #ef0f0f;
 	color: #fff;
+	text-decoration: none;
 }
 .right-section div.box{
 	float: right;
