@@ -43,7 +43,7 @@ DRYWEST
 	margin-top: -49px;
 	text-decoration: none;
 }
-a:hover{
+a:hover {
 	background: #fff;
 	color: #000;
 }
@@ -186,5 +186,74 @@ h2{
 	margin-bottom: 20px;
 	font-size: 20px;
 	color:  #ef0f0f;;
+	font-family: Georgia,"Times New Roman",Times,serif;
+	letter-spacing: .6px;
+	text-transform: uppercase;
 }
+/*
+=======================
+section-nulla
+=======================
+*/
+.purus{
+	width: 100%;
+	background-image: url(../image/sky.jpg);
+	background-color: gray;
+	background-size: 100% 100%;
+	color: whitesmoke ;
+}
+.nulla{
+	width: 50%;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	
+}
+.nulla h3{
+
+	font-size: 22px;
+    margin-bottom: 15px;
+    padding-top: 30px;
+    padding-left: 50px;
+    color: #000;
+    letter-spacing: .6px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    text-transform: uppercase;
+}
+.nulla p.nulla-exp{
+	margin-bottom: 40px;
+	padding-left: 50px;
+	font: 16px/16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: .5px;
+}
+.exp-content{
+	padding-left: 70px;
+    margin-bottom: 40px;
+    margin-top: -50px;
+}
+.fa{
+	border: 1px solid red;
+	background: #9c5a5a;
+	padding: 15px;
+}
+.fa:hover{
+	background: red;
+	color: #fff;
+}
+.exp-content p{
+	margin-bottom: 40px;
+	font:  16px/16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	letter-spacing: .5px;
+}
+
+.exp-content a.detail{
+	color: orange;
+	text-transform: uppercase;
+	padding: 15px;
+	margin-bottom: 50px;
+	text-decoration: none;
+}
+.exp-content h2{
+	color: #000;
 }
