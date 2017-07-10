@@ -236,14 +236,10 @@ section-nulla
     margin-bottom: 40px;
     margin-top: -50px;
 }
-.fa{
-	border: 1px solid red;
-	background: #9c5a5a;
+.nulla i.fa{
+	border: 1px solid orange;
 	padding: 15px;
-}
-.fa:hover{
-	background: red;
-	color: #fff;
+	color: orange;
 }
 .exp-content p{
 	margin-bottom: 40px;
