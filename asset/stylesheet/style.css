@@ -258,3 +258,34 @@ section-nulla
 .exp-content h2{
 	color: #000;
 }
+
+/*
+==========================
+footer
+===========================
+*/
+footer{
+	background: #313030;
+}
+.footer-content{
+	padding: 15px;
+	color: #fff;
+	display: inline;
+	
+}
+ul li{
+	text-decoration: none;
+	list-style-type: none;
+	font-size: 16px;
+}
+ul li a{
+	color: #fff;
+}
+ul li:hover a{
+	color: yellow;
+	text-decoration: none;
+}
+.footer-content ul.list-inline{
+
+	text-align: center;
+}
